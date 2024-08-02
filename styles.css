@@ -21,7 +21,7 @@ body {
 }
 
 .principal {
-    background-image: url("img/Background.jpg");
+    background-image: url("Background.jpg");
     background-repeat: no-repeat;
     background-size: contain;
     background-position: right center;
